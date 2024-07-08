@@ -65,7 +65,7 @@
 
 Thank you for using Blum Telegram Bot! Don't forget to follow our [Telegram channel](https://t.me/petyasofts) for updates.
 
-Ton wallet for donations : UQCcEj6OWmdJ8FIvY8tVmSsGddn57PEyn438qfzbcgEZzb-O
+Ton wallet for donations : UQD1xmJqFwHjnXOeGFJMGxdyLIeYVwLF1sd3GkavYLxLPKPh
 
-EVM wallet for donations : 0xf3eaaf294f5883DD062900E6d9c578F695b7D2D2
+EVM wallet for donations : 0x72ceb13D7A7990DF114441B243bf27da51ED90Cf
 
