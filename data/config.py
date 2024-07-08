@@ -29,4 +29,7 @@ MINI_SLEEP = [3, 7]  # [min, max]
 # Additional delay after 8 hours
 SLEEP_8HOURS = [60 * 60, 120 * 60]  # [min, max] seconds
 
-hello = Welcome
+hello = '''                               
+Bernard
+'''
+
